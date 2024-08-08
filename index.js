@@ -1,0 +1,10 @@
+const personName = ' Renu';
+console.log(personName) ;
+console.log(personName.charAt(3));
+console.log(personName.charCodeAt(2));
+console.log(personName.endsWith('b'));
+console.log(personName.endsWith('nu'));
+console.log(personName.concat ('  Ayer'));
+console.log(personName + 'Kuamri') ;
+console.log(personName.length);
+console.log(personName.trim().length);
